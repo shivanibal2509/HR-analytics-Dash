@@ -1,0 +1,1 @@
+This project is an HR Interactive Dashboard built entirely in Excel from scratch. It is designed to help HR professionals analyze employee data efficiently, visualize key metrics, and make data-driven decisions. The dashboard provides insights into various aspects of HR management, such as employee demographics, attrition rates, performance, and more.
